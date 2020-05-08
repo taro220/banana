@@ -1,4 +1,9 @@
 *.zip
 *.npy
 /data/imgs/*
-/fruits/*
+/fruits
+/models
+generate_tfrecord.py
+xml_to_csv.py
+/outputs
+/object_detection.egg-info
